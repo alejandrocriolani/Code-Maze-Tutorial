@@ -1,0 +1,28 @@
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb

@@ -1,0 +1,18 @@
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Alejandro\Desktop\Web\Code Zone Tutorial\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\aleja\Documents\Web\Code-Zone-Tutorial\Entities\obj\Debug\netstandard2.0\Entities.pdb
